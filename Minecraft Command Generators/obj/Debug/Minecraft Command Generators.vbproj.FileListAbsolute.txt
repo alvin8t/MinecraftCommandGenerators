@@ -1,0 +1,12 @@
+c:\users\alex\documents\visual studio 2013\Projects\Minecraft Command Generators\Minecraft Command Generators\bin\Debug\Minecraft Command Generators.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\Minecraft Command Generators\Minecraft Command Generators\bin\Debug\Minecraft Command Generators.exe
+c:\users\alex\documents\visual studio 2013\Projects\Minecraft Command Generators\Minecraft Command Generators\bin\Debug\Minecraft Command Generators.pdb
+c:\users\alex\documents\visual studio 2013\Projects\Minecraft Command Generators\Minecraft Command Generators\bin\Debug\Minecraft Command Generators.xml
+c:\users\alex\documents\visual studio 2013\Projects\Minecraft Command Generators\Minecraft Command Generators\obj\Debug\Minecraft_Command_Generators.Resources.resources
+c:\users\alex\documents\visual studio 2013\Projects\Minecraft Command Generators\Minecraft Command Generators\obj\Debug\Minecraft_Command_Generators.SplashScreen1.resources
+c:\users\alex\documents\visual studio 2013\Projects\Minecraft Command Generators\Minecraft Command Generators\obj\Debug\Minecraft Command Generators.vbproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2013\Projects\Minecraft Command Generators\Minecraft Command Generators\obj\Debug\Minecraft Command Generators.exe
+c:\users\alex\documents\visual studio 2013\Projects\Minecraft Command Generators\Minecraft Command Generators\obj\Debug\Minecraft Command Generators.xml
+c:\users\alex\documents\visual studio 2013\Projects\Minecraft Command Generators\Minecraft Command Generators\obj\Debug\Minecraft Command Generators.pdb
+c:\users\alex\documents\visual studio 2013\Projects\Minecraft Command Generators\Minecraft Command Generators\obj\Debug\Minecraft_Command_Generators.Main.resources
+c:\users\alex\documents\visual studio 2013\Projects\Minecraft Command Generators\Minecraft Command Generators\obj\Debug\Minecraft_Command_Generators.Tellraw.resources
